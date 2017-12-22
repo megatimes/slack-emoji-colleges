@@ -1,0 +1,16 @@
+
+Logos can be requested from ESPN at almost any size. 
+Slack emoji have a max width and height of 128x128 pixels
+Example: On Bowl pick em page, there's many logos listed.
+http://games.espn.com/college-bowl-mania/2017/en/scoresheet?groupID=163048
+
+Full listing of NCAAF teams
+http://www.espn.com/college-football/teams
+
+Each logo can be opened at its own file with a width URL param 
+http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/61.png&w=128
+
+
+
+ 
+
