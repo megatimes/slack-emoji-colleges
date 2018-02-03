@@ -1,0 +1,79 @@
+
+members acc
+:bc: :clemson: :duke: :fsu: :gt: :louisville: :miami: :ncstate: :northcarolina: :pitt: :syracuse: :virginia: :virginiatech: :wakeforest:
+
+
+members sec
+:alabama: :arkansas: :auburn: :florida: :georgia: :kentucky: :lsu: :mississippistate: :missouri: :olemiss: :southcarolina: :tennessee: :texasam: :vanderbilt:
+
+
+members big10, members big 10, lmembers B10
+:illinois: :indiana: :iowa: :maryland: :michigan: :michiganstate: :minnesota: :nebraska: :northwestern: :ohiostate: :pennstate: :purdue: :rutgers: :wisconsin:
+
+
+members big12, members big 12, members B12
+:baylor: :iowastate: :kansas: :kansasstate: :oklahoma: :oklahomastate: :tcu: :texas: :texastech: :westvirginia:
+
+
+members pac, members pac12, members pac 12
+:arizona: :arizonastate: :cal: :colorado: :oregon: :oregonstate: :stanford: :ucla: :usc: :utah: :washington: :washingtonstate:
+
+
+members cusa, members c-usa, members conference usa
+:charlotte: :floridaatlantic: :floridainternational: :louisianatech: :marshall: :middletennessee: :northtexas: :olddominion: :riceuniversity: :southernmississippi: :utep: :utsanantonio: :westernkentucky:
+
+
+members sun belt, members sun, members fun, members fun belt
+:appalachianstate: :arkansasstate: :coastalcarolina: :georgiasouthern: :georgiastate: :idaho: :louisiana: :louisianamonroe: :newmexicostate: :southalabama: :texasstate: :troy:
+
+
+members mid american, members mid, members mid-american
+:akron:  :ballstate:  :bowlinggreen:  :buffalo:  :centralmichigan:  :easternmichigan: :kentstate:  :miamiohio:  :northernillinois:  :ohio: :toledo:  :mid-westernmichigan:
+
+
+members mountain west, members mtn west
+:airforce:  :boisestate:  :coloradostate:  :fresnostate:  :hawaii:  :nevada:  :newmexico:  :sandiegostate:  :sanjosestate: :unlv:  :utahstate:  :wyoming:
+
+
+
+members american athletic, members american
+:cincinnati:  :connecticut:  :easterncarolina:  :houston:  :memphis:  :navy:  :smu:  :usf:  :temple:  :tulane:  :tulsa:  :ucf:
+
+
+members independents
+:army: :byu: :notredame: :umass:
+
+
+members bigsky, members big sky
+:calpoly: :easternwashington:  :idahostate:  :montanau:  :montanastate:  :northdakota:  :northernarizona:  :northerncolorado:  :portlandstate:  :sacramentostate:  :southernutah:  :ucdavis:  :weberstate:
+
+
+members big south, members bigsouth
+:charlestonsouthern:  :gardnerwebb:  :kennesawstate:  :liberty:  :monmouth:  :presbyterian:
+
+
+
+members ivy, members ivy league
+:brown:  :columbia:  :cornell:  :dartmouth:  :harvard:  :pennsylvania:  :princeton:  :yale:
+
+
+members CAA, members Colonial Athletic Association
+:albany:  :delaware:  :elon:  :jamesmadison:  :maine:  :newhampshire:   :rhodeisland:  :richmond:  :stonybrook:  :towson:  :villanova:  :williamandmary:
+
+
+
+list conferences, members conferences
+To list conference members, use command *members [conference name*]. Supported conference names: *[[D1]]* _ACC, American Athletic, Big 10, Big 12, Conference USA, Independents, Mid-American, Mountain West, Pac-12, SEC, Sun Belt_ ------ *[[D2]]* Big Sky, Big South, CAA, Ivy League
+
+
+
+::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  
+
+::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  
+
+::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  
+
+::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  
+
+::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  ::  
+
