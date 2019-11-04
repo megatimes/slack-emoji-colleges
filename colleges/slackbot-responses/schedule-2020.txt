@@ -1,1 +1,7 @@
 .\n\n*2020 UGA football schedule:*\n\n=====================\n\n09/07/20  :virginia:  (Atlanta)\n\n09/12/20  :easttennesseestate: \n\n09/19/20  :alabama:  @ \n\n09/26/20  :louisianamonroe: \n\n10/03/20  :vanderbilt: \n\n10/10/20  :auburn:  \n\n10/17/20  :missouri:  @ \n\n 10/24/20  bye \n\n10/31/20  :florida:  \n\n 11/07/20  :southcarolina:  @ \n\n11/14/20  :tennessee:  \n\n11/21/20  :kentucky:  @ \n\n11/28/20  :georgiatech:  \n\n12/05/20  :sec:
+
+
+
+
+#prompts
+!schedule 2020
