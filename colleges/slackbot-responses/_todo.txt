@@ -1,0 +1,3 @@
+1. rename conference list commands with !prefix
+2. add FCS icons and emoji
+3. add FCS conference lists
