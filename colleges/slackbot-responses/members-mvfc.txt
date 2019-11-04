@@ -1,0 +1,6 @@
+:illinoisstate: :indianastate: :missouristate: :northdakotastate: :northerniowa: :southdakota: :southdakotastate: :southernillinois: :westernillinois: :youngstownstate:
+
+
+
+#prompts
+!members-mvfc, !members mvfc, !members-missouri-valley, !members missouri valley
