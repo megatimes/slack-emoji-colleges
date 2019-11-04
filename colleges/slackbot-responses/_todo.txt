@@ -1,3 +1,7 @@
 1. rename conference list commands with !prefix
 2. add FCS icons and emoji
 3. add FCS conference lists
+4. add conference logos
+5. add conferece slackbot commands
+6. add TV network logos
+7. add TV network commands
