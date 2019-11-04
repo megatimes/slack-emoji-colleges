@@ -4,4 +4,4 @@
 
 
 #prompts
-members big10, members big 10, lmembers B10
+members big10, members big 10, members B10
