@@ -1,0 +1,6 @@
+:airforce:  :boisestate:  :coloradostate:  :fresnostate:  :hawaii:  :nevada:  :newmexico:  :sandiegostate:  :sanjosestate: :unlv:  :utahstate:  :wyoming:
+
+
+
+#prompts
+members mountain west, members mtn west

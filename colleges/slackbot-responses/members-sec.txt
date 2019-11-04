@@ -1,0 +1,6 @@
+:alabama: :arkansas: :auburn: :florida: :georgia: :kentucky: :lsu: :mississippistate: :missouri: :olemiss: :southcarolina: :tennessee: :texasam: :vanderbilt:
+
+
+
+#prompts
+members sec

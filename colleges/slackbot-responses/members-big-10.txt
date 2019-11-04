@@ -1,0 +1,7 @@
+:illinois: :indiana: :iowa: :maryland: :michigan: :michiganstate: :minnesota: :nebraska: :northwestern: :ohiostate: :pennstate: :purdue: :rutgers: :wisconsin:
+
+
+
+
+#prompts
+members big10, members big 10, lmembers B10

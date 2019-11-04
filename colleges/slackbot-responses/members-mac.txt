@@ -1,0 +1,6 @@
+:akron:  :ballstate:  :bowlinggreen:  :buffalo:  :centralmichigan:  :easternmichigan: :kentstate:  :miamiohio:  :northernillinois:  :ohio: :toledo:  :mid-westernmichigan:
+
+
+
+#prompts
+members mac, members mid american, members mid, members mid-american

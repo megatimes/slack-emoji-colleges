@@ -1,0 +1,5 @@
+:albany:   :delaware:   :elon:   :jamesmadison:   :maine:   :newhampshire:   :rhodeisland:   :richmond:   :stonybrook:   :towson:   :villanova:   :williamandmary:
+
+
+#prompts
+members CAA, members Colonial Athletic Association

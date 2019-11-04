@@ -1,0 +1,6 @@
+To list conference members, use command *members [conference name*]. Supported conference names: *[[FBS P5]]* _ACC, Big 10, Big 12,  Pac-12, SEC, Independents_  *[[FBS G5]]* _American Athletic, Conference USA, Mid-American, Mountain West, Sun Belt_ ------ *[[FCS]]* Big Sky, Big South, CAA, Ivy League
+
+
+
+#prompts
+list conferences, members conferences
