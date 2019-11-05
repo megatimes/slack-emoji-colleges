@@ -1,0 +1,22 @@
+
+
+*List of National Champs*\n
+`!champs`\n\n
+*Clear some space in chat*\n
+`!clear`\n\n
+*Get info about a conference*\n
+`!members <conference name>`\n\n
+*Get full list of conferences*\n
+`!conferences`\n\n
+*Away game trips schedule*\n
+`!away games`\n\n
+*UGA's 2020 schedule*\n
+`!schedule 2020`\n\n
+*UGA's 2019 schedule*\n
+`!schedule` or `!schedule 2019`
+
+
+================
+joined lines:
+
+*List of National Champs*\n `!champs`\n\n *Clear some space in chat*\n `!clear`\n\n *Get info about a conference*\n `!members <conference name>`\n\n *Get full list of conferences*\n `!conferences`\n\n *Away game trips schedule*\n `!away games`\n\n *UGA's 2020 schedule*\n `!schedule 2020`\n\n *UGA's 2019 schedule*\n `!schedule` or `!schedule 2019`
