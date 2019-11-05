@@ -1,6 +1,29 @@
-:akron:  :ballstate:  :bowlinggreen:  :buffalo:  :centralmichigan:  :easternmichigan: :kentstate:  :miamiohio:  :northernillinois:  :ohio: :toledo:  :mid-westernmichigan:
-
-
-
 #prompts
-members mac, members mid american, members mid, members mid-american
+!members mac, !members mid american, !members midamerican, !members mid-american, !members-mid-american
+
+
+
+
+====================================================
+====================================================
+====================================================
+
+# Pre line joins for easier editing:
+====================================================
+
+~\n\n*MAC - Mid-American Conference* \n_FBS // Group of Five_\n\n\n
+*East Division*\n\n
+:akron:  Akron  `:akron:`\n\n
+:bowlinggreen:  Bowling Green  `:bowlinggreen:`\n\n
+:buffalo:  Buffalo  `:buffalo:`\n\n
+:kentstate:  Kent State  `:kentstate:`\n\n
+:miamiohio:  Miami (Ohio)  `:miamiohio:`\n\n
+:ohio:  Ohio  `:ohio:`\n\n
+
+\n*West Division*\n\n
+:ballstate:  Ball State  `:ballstate:`\n\n
+:centralmichigan:  Central Michigan  `:centralmichigan:`\n\n
+:easternmichigan:  Eastern Michigan  `:easternmichigan:`\n\n
+:northernillinois:  Northern Illinois  `:northernillinois:`\n\n
+:toledo:  Toledo  `:toledo:`\n\n
+:westernmichigan:  Western Michigan  `:westernmichigan:`

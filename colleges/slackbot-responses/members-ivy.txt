@@ -1,8 +1,32 @@
-:brown:  :columbia:  :cornell:  :dartmouth:  :harvard:  :penn:  :princeton:  :yale:
-
-
-
-
-
 #prompts
-!members-ivy, !members ivy, !members ivy league
+!members ivy, !members ivy league, !members-ivy, !members-ivy-league
+
+~\n\n*Ivy League\n_FCS_\n\n\n *No Divisions*\n\n :brown:  Brown  `:brown:`\n\n :columbia:  Columbia  `:columbia:`\n\n :cornell:  Cornell  `:cornell:`\n\n :dartmouth:  Dartmouth  `:dartmouth:`\n\n :harvard:  Harvard  `:harvard:`\n\n :penn:  Penn  `:penn:`\n\n :princeton:  Princeton  `:princeton:`\n\n:yale:  Yale  `:yale:`
+
+
+
+
+
+
+====================================================
+====================================================
+====================================================
+
+# Pre line joins for easier editing:
+====================================================
+
+~\n\n*Ivy League\n_FCS_\n\n\n
+*No Divisions*\n\n
+:brown:  Brown  `:brown:`\n\n
+:columbia:  Columbia  `:columbia:`\n\n
+:cornell:  Cornell  `:cornell:`\n\n
+:dartmouth:  Dartmouth  `:dartmouth:`\n\n
+:harvard:  Harvard  `:harvard:`\n\n
+:penn:  Penn  `:penn:`\n\n
+:princeton:  Princeton  `:princeton:`\n\n
+:yale:  Yale  `:yale:`
+
+
+
+
+

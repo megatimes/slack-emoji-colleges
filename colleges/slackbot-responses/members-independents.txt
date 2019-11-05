@@ -1,6 +1,25 @@
-:army: :byu: :notredame: :umass:
-
-
-
 #prompts
-members independents, members indy
+!members independents, !members indy, !members-fbs-independents, !members-independents, !members-indy, 
+
+
+~\n\n*:conference-independents-fbs: FBS Independents  -  No Conference Affiliation* \n_FBS  // Neither P5 nor G5\n\n\n *No Divisions*\n\n :army:  Army  `:army:`\n\n :byu:  BYU (Brigham Young) `:byu:`\n\n :liberty:  Liberty  `:liberty:`\n\n :newmexicostate:  New Mexixo State  `:newmexicostate:`\n\n :notredame:  Notre Dame  `:notredame:`\n\n :uconn:  UConn (Connecticut) beginning 2020 `:uconn:`\n\n :umass:  UMass (Massachusetts Amherst) `:umass:`
+
+
+
+
+====================================================
+====================================================
+====================================================
+
+# Pre line joins for easier editing:
+====================================================
+
+~\n\n*:conference-independents-fbs: FBS Independents  -  No Conference Affiliation* \n_FBS  // Neither P5 nor G5\n\n\n
+*No Divisions*\n\n
+:army:  Army  `:army:`\n\n
+:byu:  BYU (Brigham Young) `:byu:`\n\n
+:liberty:  Liberty  `:liberty:`\n\n
+:newmexicostate:  New Mexixo State  `:newmexicostate:`\n\n
+:notredame:  Notre Dame  `:notredame:`\n\n
+:uconn:  UConn (Connecticut) beginning 2020 `:uconn:`\n\n
+:umass:  UMass (Massachusetts Amherst) `:umass:`

@@ -2,8 +2,7 @@
 !members conferences, !list conferences, !members-conferences, !list-conferences
 
 
-~\n*FBS - Power Five Conferences*\n\n ACC\n`!members acc`\n\n Big Ten\n`!members big 10`\n\n Big 12\n`!members big 12`\n\n Pac-12\n`!members pac 12`\n\n SEC\n`!members sec`\n\n Independents\n`!members independents`\n\n\n \n*FBS - Group of Five Conferences*\n\n American Athletic\n`!members american`\n\n Conference USA\n`!members usa`\n\n Mid-American\n`!members mid american`\n\n Mountain West\n`!members mountain west`\n\n Sun Belt\n`!members sun belt`\n\n\n \n*FCS*\n\n Big Sky\n`!members big sky`\n\n Big South\n`!members big south`\n\n CAA (Colonial Athletic)\n`!members caa`\n\n Ivy League\n`!members ivy`\n\n FCS Independents\n`!members fcs independents`\n\n Mid-Eastern Athletic (MEAC)\n`!members mideastern`\n\n Missouri Valley (MVIC)\n`!members missouri valley`\n\n Northeast (NEC)\n`!members northeast`\n\n Ohio Valley (OVC)\n`!members ohio valley`\n\n Patriot League\n`!members patriot`\n\n Pioneer League\n`!members pioneer`\n\n Southern Conference\n`!members southern`\n\n Southland Conference\n`!members southland`\n\n Southwestern Athletic\n`!members southwestern`
-
+~\n*FBS - Power Five Conferences*\n\n ACC\n`!members acc`\n\n Big Ten\n`!members big 10`\n\n Big 12\n`!members big 12`\n\n Pac-12\n`!members pac 12`\n\n SEC\n`!members sec`\n\n Independents\n`!members independents`\n\n\n \n*FBS - Group of Five Conferences*\n\n American Athletic\n`!members american`\n\n Conference USA\n`!members usa`\n\n MAC (Mid-American) \n`!members mac` or `!members mid american`\n\n Mountain West\n`!members mountain west`\n\n Sun Belt\n`!members sun belt`\n\n\n \n*FCS*\n\n Big Sky\n`!members big sky`\n\n Big South\n`!members big south`\n\n CAA (Colonial Athletic)\n`!members caa`\n\n Ivy League\n`!members ivy`\n\n FCS Independents\n`!members fcs independents`\n\n Mid-Eastern Athletic (MEAC)\n`!members mideastern`\n\n Missouri Valley (MVIC)\n`!members missouri valley`\n\n Northeast (NEC)\n`!members northeast`\n\n Ohio Valley (OVC)\n`!members ohio valley`\n\n Patriot League\n`!members patriot`\n\n Pioneer League\n`!members pioneer`\n\n Southern Conference\n`!members southern`\n\n Southland Conference\n`!members southland`\n\n Southwestern Athletic\n`!members southwestern`
 
 
 
@@ -26,7 +25,7 @@ Independents\n`!members independents`\n\n\n
 \n*FBS - Group of Five Conferences*\n\n
 American Athletic\n`!members american`\n\n
 Conference USA\n`!members usa`\n\n
-Mid-American\n`!members mid american`\n\n
+MAC (Mid-American) \n`!members mac` or `!members mid american`\n\n
 Mountain West\n`!members mountain west`\n\n
 Sun Belt\n`!members sun belt`\n\n\n
 

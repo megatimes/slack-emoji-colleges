@@ -21,7 +21,7 @@
 # Pre line joins for easier editing:
 ====================================================
 
-~\n\n*ConfAbbr - FullName* \n_FBS // Power Five_\n\n\n
+~\n\n*ConfAbbr - FullName* \n_FBS // Group of Five_\n\n\n
 *DivisionName*\n\n
 ::  Name  `::`\n\n
 ::  Name  `::`\n\n

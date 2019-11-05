@@ -13,5 +13,6 @@
 7. add TV network commands
 
 8. Reorganize conference lists to include divisions and commands for each school
-   - completed FBS P5 - ACC, big 12, big 10, pac 12, sec
-   - completed FBS G5 - CUSA, 
+   - completed FBS P5 - ACC, big 12, big10, pac-12, sec, independents
+   - completed FBS G5 - C-USA, sun belt, MAC, 
+   - completed FCS - big sky, ivy league, big south, caa, 

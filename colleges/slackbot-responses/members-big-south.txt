@@ -1,6 +1,28 @@
-:charlestonsouthern:  :gardnerwebb:  :kennesawstate:  :liberty:  :monmouth:  :presbyterian:
-
-
-
 #prompts
-members big south, members bigsouth
+!members big south, !members bigsouth, !members-big-south, !members-bigsouth
+
+
+
+
+
+
+====================================================
+====================================================
+====================================================
+
+# Pre line joins for easier editing:
+====================================================
+
+~\n\n*Big South Conference* (_FCS_)\n\n\n
+*No Divisions*\n\n
+:campbell:  Campbell  `:campbell:`\n\n
+:charlestonsouthern:  Charleston Southern  `:charlestonsouthern:`\n\n
+:gardnerwebb:  Gardner Webb  `:gardnerwebb:`\n\n
+:hampton:  Hampton  `:hampton:`\n\n
+:kennesawstate:  Kennessaw State  `:kennesawstate:`\n\n
+:monmouth:  Monmouth  `:monmouth:`\n\n
+:northalabama:  North Alabama  `:northalabama:`\n\n
+:presbyterian:  Presbyterian  `:presbyterian:`
+
+
+
