@@ -1,0 +1,32 @@
+#prompts
+!members missouri valley, !members-mvfc, !members mvfc, !members-missouri-valley
+
+
+~\n\n:conference-missouri-valley: *MVFC - Missouri Valley Football Conference* (_FCS_)\n\n\n *No Divisions*\n\n :indianastate:  Indiana State  `:indianastate:`\n\n :illinoisstate:  Illinois State  `:illinoisstate:`\n\n :missouristate:  Missouri State  `:missouristate:`\n\n :northdakotastate:  North Dakota State  `:northdakotastate:`\n\n :northerniowa:  Northern Iowa  `:northerniowa:`\n\n :southdakota:  South Dakota  `:southdakota:`\n\n :southdakotastate:  South Dakota State  `:southdakotastate:`\n\n :southernillinois:  Southern Illinois  `:southernillinois:`\n\n :westernillinois:  Western Illinois  `:westernillinois:`\n\n :youngstownstate:  Youngstown State  `:youngstownstate:`\n\n\n\n :northdakota:  (starting 2020) North Dakota `:northdakota:`
+
+
+
+
+
+
+
+====================================================
+====================================================
+====================================================
+
+# Pre line joins for easier editing:
+====================================================
+
+~\n\n:conference-missouri-valley: *MVFC - Missouri Valley Football Conference* (_FCS_)\n\n\n
+*No Divisions*\n\n
+:indianastate:  Indiana State  `:indianastate:`\n\n
+:illinoisstate:  Illinois State  `:illinoisstate:`\n\n
+:missouristate:  Missouri State  `:missouristate:`\n\n
+:northdakotastate:  North Dakota State  `:northdakotastate:`\n\n
+:northerniowa:  Northern Iowa  `:northerniowa:`\n\n
+:southdakota:  South Dakota  `:southdakota:`\n\n
+:southdakotastate:  South Dakota State  `:southdakotastate:`\n\n
+:southernillinois:  Southern Illinois  `:southernillinois:`\n\n
+:westernillinois:  Western Illinois  `:westernillinois:`\n\n
+:youngstownstate:  Youngstown State  `:youngstownstate:`\n\n\n\n
+:northdakota:  (starting 2020) North Dakota  `:northdakota:`

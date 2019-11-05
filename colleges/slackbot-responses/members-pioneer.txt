@@ -1,6 +1,32 @@
-:butler: :davidson: :dayton: :drake: :jacksonville: :marist: :moreheadst: :sandiego: :stetson: :valparaiso:
-
-
-
 #prompts
-!members-pioneer-league, !members-pioneer, !members pioneer league, !members pioneer
+!members pioneer, !members pioneer league, !members-pioneer-league, !members-pioneer
+
+
+~\n\n:conference-pioneer: *PFL - Pioneer Football League* (_FCS_)\n\n\n *No Divisions*\n\n :butler:  Butler  `:butler:`\n\n :davidson:  Davidson  `:davidson:`\n\n :dayton:  Dayton  `:dayton:`\n\n :drake:  Drake  `:drake:`\n\n :jacksonville:  Jacksonville  `:jacksonville:`\n\n :marist:  Marist  `:marist:`\n\n :moreheadst:  Morehead State  `:moreheadst:`\n\n :sandiego:  San Diego  `:sandiego:`\n\n :stetson:  Stetson  `:stetson:`\n\n :valparaiso:  Valparaiso  `:valparaiso:`
+
+
+
+
+
+
+
+
+====================================================
+====================================================
+====================================================
+
+# Pre line joins for easier editing:
+===================================================
+
+~\n\n:conference-pioneer: *PFL - Pioneer Football League* (_FCS_)\n\n\n
+*No Divisions*\n\n
+:butler:  Butler  `:butler:`\n\n
+:davidson:  Davidson  `:davidson:`\n\n
+:dayton:  Dayton  `:dayton:`\n\n
+:drake:  Drake  `:drake:`\n\n
+:jacksonville:  Jacksonville  `:jacksonville:`\n\n
+:marist:  Marist  `:marist:`\n\n
+:moreheadst:  Morehead State  `:moreheadst:`\n\n
+:sandiego:  San Diego  `:sandiego:`\n\n
+:stetson:  Stetson  `:stetson:`\n\n
+:valparaiso:  Valparaiso  `:valparaiso:`

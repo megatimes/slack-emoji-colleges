@@ -14,5 +14,10 @@
 
 8. Reorganize conference lists to include divisions and commands for each school
    - completed FBS P5 - ACC, big 12, big10, pac-12, sec, independents
+
    - completed FBS G5 - C-USA, sun belt, MAC, AAC/american, mountain west
-   - completed FCS - big sky, ivy league, big south, caa, independents, meac, 
+
+   - completed FCS:
+        big sky, ivy league, big south, 
+        caa, independents, meac, mvfc, nec, ohio valley,
+        patriot league, 

@@ -1,0 +1,31 @@
+prompts
+!members ohio valley, !members ovc, !members-ohio-valley, !members-ovc
+
+
+~\n\n:conference-ohio-valley: *OVC - Ohio Valley Conference* (_FCS_)\n\n\n *No Divisions*\n\n :austinpeay:  Austin Peay  `:austinpeay:`\n\n :easternillinois:  Eastern Illinois  `:easternillinois:`\n\n :easternkentucky:  Eastern Kentucky  `:easternkentucky:`\n\n :jacksonvillestate:  Jacksonville State  `:jacksonvillestate:`\n\n :murraystate:  Murray State  `:murraystate:`\n\n :southeastmissouri:  Southeast Missouri  `:southeastmissouri:`\n\n :tennesseestate:  Tennessee State  `:tennesseestate:`\n\n :tennesseetech:  Tennessee Tech  `:tennesseetech:`\n\n :utmartin:  UT Martin  `:utmartin:`
+
+
+
+
+
+
+
+
+====================================================
+====================================================
+====================================================
+
+# Pre line joins for easier editing:
+====================================================
+
+~\n\n:conference-ohio-valley: *OVC - Ohio Valley Conference* (_FCS_)\n\n\n
+*No Divisions*\n\n
+:austinpeay:  Austin Peay  `:austinpeay:`\n\n
+:easternillinois:  Eastern Illinois  `:easternillinois:`\n\n
+:easternkentucky:  Eastern Kentucky  `:easternkentucky:`\n\n
+:jacksonvillestate:  Jacksonville State  `:jacksonvillestate:`\n\n
+:murraystate:  Murray State  `:murraystate:`\n\n
+:southeastmissouri:  Southeast Missouri  `:southeastmissouri:`\n\n
+:tennesseestate:  Tennessee State  `:tennesseestate:`\n\n
+:tennesseetech:  Tennessee Tech  `:tennesseetech:`\n\n
+:utmartin:  UT Martin  `:utmartin:`

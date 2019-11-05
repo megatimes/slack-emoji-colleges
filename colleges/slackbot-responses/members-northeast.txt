@@ -1,0 +1,33 @@
+#prompts
+!members northeast, !members nec, !members-nec, !members-northeast-conference, !members northeast conference
+
+
+
+~\n\n*:conference-nec: NEC - Northeast Conference*(_FCS_)\n\n\n *No Divisions*\n\n :bryant:  Bryant  `:bryant:`\n\n :centralconnecticutstate:  Central Connecticut State  `:centralconnecticutstate:`\n\n :duquesne:  Duquesne  `:duquesne:`\n\n :robertmorris:  Robert Morris  `:robertmorris:`\n\n :sacredheart:  Sacred Heart  `:sacredheart:`\n\n :stfrancispa:  St Francis (PA)  `:stfrancispa:`\n\n :wagner:  Wagner  `:wagner:`\n\n :longisland:  Long Island  `:longisland:`
+
+
+
+
+
+
+
+
+====================================================
+====================================================
+====================================================
+
+# Pre line joins for easier editing:
+====================================================
+
+~\n\n*:conference-nec: NEC - Northeast Conference*(_FCS_)\n\n\n
+*No Divisions*\n\n
+:bryant:  Bryant  `:bryant:`\n\n
+:centralconnecticutstate:  Central Connecticut State  `:centralconnecticutstate:`\n\n
+:duquesne:  Duquesne  `:duquesne:`\n\n
+:robertmorris:  Robert Morris  `:robertmorris:`\n\n
+:sacredheart:  Sacred Heart  `:sacredheart:`\n\n
+:stfrancispa:  St Francis (PA)  `:stfrancispa:`\n\n
+:wagner:  Wagner  `:wagner:`\n\n
+:longisland:  Long Island  `:longisland:`
+
+

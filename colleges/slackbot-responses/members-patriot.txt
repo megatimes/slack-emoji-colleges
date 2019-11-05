@@ -1,6 +1,27 @@
-:bucknell: :colgate: :fordham: :georgetown: :holycross: :lafayette: :lehigh:
-
-
-
 #prompts
-!members-patriot-league, !members-patriot, !members patriot league, !members patriot
+!members patriot, !members patriot league, !members-patriot-league, !members-patriot
+
+
+~\n\n*:conference-patriot-league: Patriot League* (_FCS_)\n\n\n *No Divisions*\n\n :bucknell:  Bucknell  `:bucknell:`\n\n :colgate:  Colgate  `:colgate:`\n\n :fordham:  Fordham  `:fordham:`\n\n :georgetown:  Georgetown  `:georgetown:`\n\n :holycross:  Holy Cross  `:holycross:`\n\n :lafayette:  Lafayette  `:lafayette:`\n\n :lehigh:  Lehigh  `:lehigh:`
+
+
+
+
+
+
+====================================================
+====================================================
+====================================================
+
+# Pre line joins for easier editing:
+====================================================
+
+~\n\n*:conference-patriot-league: Patriot League* (_FCS_)\n\n\n
+*No Divisions*\n\n
+:bucknell:  Bucknell  `:bucknell:`\n\n
+:colgate:  Colgate  `:colgate:`\n\n
+:fordham:  Fordham  `:fordham:`\n\n
+:georgetown:  Georgetown  `:georgetown:`\n\n
+:holycross:  Holy Cross  `:holycross:`\n\n
+:lafayette:  Lafayette  `:lafayette:`\n\n
+:lehigh:  Lehigh  `:lehigh:`
