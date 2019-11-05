@@ -1,7 +1,37 @@
-:illinois: :indiana: :iowa: :maryland: :michigan: :michiganstate: :minnesota: :nebraska: :northwestern: :ohiostate: :pennstate: :purdue: :rutgers: :wisconsin:
-
-
-
-
 #prompts
-members big10, members big 10, members B10
+!members big10, !members big 10, !members big-10, !members big ten, !members-big-ten, !members-b10, !members-big-10, !members b1g, !members-b1g
+
+
+~\n\n*B10 - Big Ten* \n_FBS // Power Five_\n\n\n *B10 East*\n\n :indiana:  Indiana `:indiana:`\n\n :maryland:  Maryland  `:maryland:`\n\n :michigan:  Michigan  `:michigan:`\n\n :michiganstate:  Michigan State  `:michiganstate:`\n\n :ohiostate:  Ohio State  `:ohiostate:`\n\n :pennstate:  Penn State  `:pennstate:`\n\n :rutgers:  Rutgers  `:rutgers:`\n\n \n*B10 West*\n\n :illinois:  Illinois  `:illinois:`\n\n :iowa:  Iowa  `:iowa:`\n\n :minnesota:  Minnesota  `:minnesota:`\n\n :nebraska:  Nebraska  `:nebraska:`\n\n :northwestern:  Northwestern  `:northwestern:`\n\n :purdue:  Purdue  `:purdue:`\n\n :wisconsin:  Wisconsin  `:wisconsin:`
+
+
+
+====================================================
+====================================================
+====================================================
+
+
+
+
+
+# Pre line joins for easier editing:
+====================================================
+
+~\n\n*B10 - Big Ten* \n_FBS // Power Five_\n\n\n
+*B10 East*\n\n
+:indiana:  Indiana `:indiana:`\n\n
+:maryland:  Maryland  `:maryland:`\n\n
+:michigan:  Michigan  `:michigan:`\n\n
+:michiganstate:  Michigan State  `:michiganstate:`\n\n
+:ohiostate:  Ohio State  `:ohiostate:`\n\n
+:pennstate:  Penn State  `:pennstate:`\n\n
+:rutgers:  Rutgers  `:rutgers:`\n\n
+
+\n*B10 West*\n\n
+:illinois:  Illinois  `:illinois:`\n\n
+:iowa:  Iowa  `:iowa:`\n\n
+:minnesota:  Minnesota  `:minnesota:`\n\n
+:nebraska:  Nebraska  `:nebraska:`\n\n
+:northwestern:  Northwestern  `:northwestern:`\n\n
+:purdue:  Purdue  `:purdue:`\n\n
+:wisconsin:  Wisconsin  `:wisconsin:`\n\n

@@ -1,6 +1,33 @@
-:charlotte: :floridaatlantic: :floridainternational: :louisianatech: :marshall: :middletennessee: :northtexas: :olddominion: :riceuniversity: :southernmississippi: :utep: :utsanantonio: :westernkentucky:
-
-
-
 #prompts
-members cusa, members c-usa, members conference usa
+!members usa, !members cusa, !members-usa, !members-cusa, !members conference usa
+
+
+~\n\n*C-USA - Conference USA* \n_FBS // Group of Five_\n\n\n *C-USA East*\n\n :charlotte:  Charlotte  `:charlotte:`\n\n :floridaatlantic:  Florida Atlantic  `:fau:`\n\n :fiu:  Florida International  `:fiu:`\n\n :marshall:  Marshall  `:marshall:`\n\n :middletennessee:  Middle Tennessee  `:middletennessee:`\n\n :olddominion:  Old Dominion  `:olddominion:`\n\n :westernkentucky:  Western Kentucky  `:westernkentucky:`\n\n \n*C-USA West*\n\n :louisianatech:  Louisiana Tech  `:louisianatech:`\n\n :northtexas:  North Texas  `:northtexas:`\n\n :riceuniversity:  Rice  `:riceuniversity:`\n\n :southernmiss:  Southern Miss  `:southernmiss:`\n\n :utep:  UTEP  (Texas @ El Paso)  `:utep:`\n\n :utsa:  UTSA  (Texas @ San Antonio)  `:utsa:`
+
+
+
+
+====================================================
+====================================================
+====================================================
+
+# Pre line joins for easier editing:
+====================================================
+
+~\n\n*C-USA  -  Conference USA* \n_FBS // Group of Five_\n\n\n
+*C-USA East*\n\n
+:charlotte:  Charlotte  `:charlotte:`\n\n
+:floridaatlantic:  Florida Atlantic  `:fau:`\n\n
+:fiu:  Florida International  `:fiu:`\n\n
+:marshall:  Marshall  `:marshall:`\n\n
+:middletennessee:  Middle Tennessee  `:middletennessee:`\n\n
+:olddominion:  Old Dominion  `:olddominion:`\n\n
+:westernkentucky:  Western Kentucky  `:westernkentucky:`\n\n
+
+\n*C-USA West*\n\n
+:louisianatech:  Louisiana Tech  `:louisianatech:`\n\n
+:northtexas:  North Texas  `:northtexas:`\n\n
+:riceuniversity:  Rice  `:riceuniversity:`\n\n
+:southernmiss:  Southern Miss  `:southernmiss:`\n\n
+:utep:  UTEP  (Texas @ El Paso)  `:utep:`\n\n
+:utsa:  UTSA  (Texas @ San Antonio)  `:utsa:`

@@ -1,7 +1,41 @@
-:arizona: :arizonastate: :cal: :colorado: :oregon: :oregonstate: :stanford: :ucla: :usc: :utah: :washington: :washingtonstate:
-
-
-
-
 #prompts
-members pac, members pac12, members pac 12
+!members pac 12, !members pac12, !members-pac-12, !members pac, !members-pac, !members pac 10, !members pac10, !members-pac10, !members-pac-10
+
+
+~\n\n*Pac-12 - Pacific Coast Conference* \n_FBS // Power Five_\n\n\n *PAC-12 North*\n\n :cal:  Cal  `:cal:`\n\n :oregon:  Oregon  `:oregon:`\n\n :oregonstate:  Oregon State  `:oregonstate:`\n\n :stanford:  Stanford  `:stanford:`\n\n :washington:  Washington  `:washington:`\n\n :washingtonstate:  Washington State  `:washingtonstate:`\n\n \n*PAC-12 South*\n\n :arizona:  Arizona  `:arizona:`\n\n :arizonastate:  Arizona State  `:arizonastate:`\n\n :colorado:  Colorado  `:colorado:`\n\n :ucla:  UCLA  `:ucla:`\n\n :usc:  USC (Southern California)  `:usc:`\n\n :utah:  Utah  `:utah:`
+
+
+
+
+
+
+
+
+
+
+
+====================================================
+====================================================
+====================================================
+
+
+
+# Pre line joins for easier editing:
+====================================================
+
+~\n\n*Pac-12 - Pacific Coast Conference* \n_FBS // Power Five_\n\n\n
+*PAC-12 North*\n\n
+:cal:  Cal  `:cal:`\n\n
+:oregon:  Oregon  `:oregon:`\n\n
+:oregonstate:  Oregon State  `:oregonstate:`\n\n
+:stanford:  Stanford  `:stanford:`\n\n
+:washington:  Washington  `:washington:`\n\n
+:washingtonstate:  Washington State  `:washingtonstate:`\n\n
+
+\n*PAC-12 South*\n\n
+:arizona:  Arizona  `:arizona:`\n\n
+:arizonastate:  Arizona State  `:arizonastate:`\n\n
+:colorado:  Colorado  `:colorado:`\n\n
+:ucla:  UCLA  `:ucla:`\n\n
+:usc:  USC (Southern California)  `:usc:`\n\n
+:utah:  Utah  `:utah:`

@@ -1,5 +1,5 @@
-:calpoly: :easternwashington:  :idahostate:  :montanau:  :montanastate:  :northdakota:  :northernarizona:  :northerncolorado:  :portlandstate:  :sacramentostate:  :southernutah:  :ucdavis:  :weberstate:
-
-
 #prompts
-members bigsky, members big sky
+!members big sky, !members bigsky, !members-big-sky
+
+
+~\n\n*Big Sky Conference (FCS)* \n\n:calpoly: Cal Poly `:calpoly:`\n\n :easternwashington: Eastern Washington `:easternwashington:`\n\n :idahostate:  Idaho State `idahostate` \n\n:montanau: Montana `:montanau:` \n\n :montanastate: Montana State `:montanastate:` \n\n:northernarizona: Northern Arizona `:northernarizona:` \n\n:northerncolorado: Northern Colorado `:northerncolorado:` \n\n :portlandstate: Portland State `:portlandstate:` \n\n:sacramentostate:  Sacramento State `:sacramentostate:` \n\n:southernutah: Southern Utah `:southernutah:` \n\n:ucdavis:  UC Davis `:ucdavis:` \n\n:weberstate: Weber State `:weberstate:`

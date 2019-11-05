@@ -1,6 +1,4 @@
-:alabama: :arkansas: :auburn: :florida: :georgia: :kentucky: :lsu: :mississippistate: :missouri: :olemiss: :southcarolina: :tennessee: :texasam: :vanderbilt:
-
-
-
 #prompts
-members sec
+!members sec, !members-sec
+
+~\n\n*:sec:  SEC - Southeastern Conference* \n_FBS // Power Five_\n\n\n*West Division*\n\n:alabama: Alabama `:alabama:` \n\n:arkansas: Arkansas `:arkansas:` \n\n:auburn: Auburn `:auburn:` \n\n:lsu: LSU `:lsu:` \n\n:mississippistate: Mississippi State `:mississippistate:` \n\n:olemiss: Ole Miss `:olemiss:`\n\n:texasam: Texas A&M `:texasam:`\n\n\n*East Division*\n\n:florida: Florida `:florida:` \n\n:georgia: Georgia `:georgia:` \n\n:kentucky: Kentucky `:kentucky:` \n\n:missouri: Missouri `:missouri:` \n\n:southcarolina: South Carolina `:southcarolina:` \n\n:tennessee: Tennessee `:tennessee:` \n\n:vanderbilt: Vanderbilt `:vanderbilt:`
