@@ -2,4 +2,27 @@
 !members big 12, !members big12, !members big-12, !members big twelve, !members-big-twelve, !members-b12, !members-big-12
 
 
-~\n\n*Big 12 Conference* \n_FBS // Power Five_\n\n\n *(Big 12 has no divisions)*\n\n :baylor:  Baylor  `:baylor:`\n\n :iowastate:  Iowa State  `:iowastate:`\n\n :kansas:  Kansas  `:kansas:`\n\n :kansasstate:  Kansas State  `:kansasstate:`\n\n :oklahoma:  Oklahoma  `:oklahoma:`\n\n :oklahomastate:  Oklahoma State  `:oklahomastate:`\n\n :tcu:  TCU (Texas Christian)  `:tcu:`\n\n :texas:  Texas  `:texas:` or :hornsdown: `:hornsdown:`\n\n :texastech:  Texas Tech  `:texastech:`\n\n :westvirginia:  West Virginia  `:westvirginia:`
+~\n\n:big-12: *Big 12 Conference* \n_FBS // Power Five_\n\n\n *Big 12 doesn't have divisions*\n\n :baylor:  Baylor  `:baylor:`\n\n :iowastate:  Iowa State  `:iowastate:`\n\n :kansas:  Kansas  `:kansas:`\n\n :kansasstate:  Kansas State  `:kansasstate:`\n\n :oklahoma:  Oklahoma  `:oklahoma:`\n\n :oklahomastate:  Oklahoma State  `:oklahomastate:`\n\n :tcu:  TCU (Texas Christian)  `:tcu:`\n\n :texas:  Texas  `:texas:` or :hornsdown: `:hornsdown:`\n\n :texastech:  Texas Tech  `:texastech:`\n\n :westvirginia:  West Virginia  `:westvirginia:`
+
+
+
+
+====================================================
+====================================================
+====================================================
+
+# Pre line joins for easier editing:
+====================================================
+
+~\n\n:big-12: *Big 12 Conference* \n_FBS // Power Five_\n\n\n
+*Big 12 doesn't have divisions*\n\n
+:baylor:  Baylor  `:baylor:`\n\n
+:iowastate:  Iowa State  `:iowastate:`\n\n
+:kansas:  Kansas  `:kansas:`\n\n
+:kansasstate:  Kansas State  `:kansasstate:`\n\n
+:oklahoma:  Oklahoma  `:oklahoma:`\n\n
+:oklahomastate:  Oklahoma State  `:oklahomastate:`\n\n
+:tcu:  TCU (Texas Christian)  `:tcu:`\n\n
+:texas:  Texas  `:texas:` or :hornsdown: `:hornsdown:`\n\n
+:texastech:  Texas Tech  `:texastech:`\n\n
+:westvirginia:  West Virginia  `:westvirginia:`
