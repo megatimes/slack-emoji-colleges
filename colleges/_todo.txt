@@ -1,7 +1,17 @@
 1. rename conference list commands with !prefix
-2. add FCS icons and emoji
-3. add FCS conference lists
-4. add conference logos
-5. add conferece slackbot commands
+
+2. done - add FCS icons and emoji
+
+3. done - add FCS conference lists
+
+4. add conference logos (added SEC)
+
+5. done - add conferece slackbot commands to list conference commands
+
 6. add TV network logos
+
 7. add TV network commands
+
+8. Reorganize conference lists to include divisions and commands for each school
+   - completed FBS P5 - ACC, big 12, big 10, pac 12, sec
+   - completed FBS G5 - CUSA, 

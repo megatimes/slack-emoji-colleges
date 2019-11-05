@@ -8,6 +8,22 @@
 
 !members big sky
 ========================
+weberstate
+montana
+sacramentostate
+montanastate
+easternwashington
+idaho
+portlandstate
+ucdavis
+northernarizona
+northerncolorado
+idahostate
+calpoly
+southernutah
+
+
+
 
 
 
