@@ -3,3 +3,36 @@
 
 
 ~\n\n:acc: *ACC - Atlantic Coast Conference* \n_FBS // Power Five_\n\n\n*Atlantic Division*\n\n:bc:  Boston College  `:bc:` or  `:bostoncollege:`\n\n:clemson:  Clemson  `:clemson:` \n\n:fsu:  Florida State  `:fsu:` \n\n:louisville:  Louisville  `:louisville:` \n\n:ncstate:  NC State  `:ncstate:` \n\n:syracuse:  Syracuse  `:syracuse:` \n\n:wakeforest:  Wake Forest  `:wakeforest:` \n\n\n*Coastal Division*\n\n:duke:  Duke  `:duke:` \n\n:gt:  Georgia Tech  `:gt:` or  `:georgiatech:`\n\n:miami:  Miami  `:miami:` \n\n:pitt:  Pittsburgh  `:pitt:` \n\n:virginia:  Virginia  `:virginia:` \n\n:virginiatech:  Virginia Tech  `:virginiatech:` \n\n:unc:  UNC  `:unc:`
+
+
+~\n\n*ACC - Atlantic Coast Conference* :acc:\n_FBS // Power Five_\n\n\n :acc: *Atlantic*\n -----------------------------\n\n :bc:  Boston College  `:bc:` or  `:bostoncollege:`\n\n :clemson:  Clemson  `:clemson:` \n\n :fsu:  Florida State  `:fsu:` \n\n :louisville:  Louisville  `:louisville:` \n\n :ncstate:  NC State  `:ncstate:` \n\n :syracuse:  Syracuse  `:syracuse:` \n\n :wakeforest:  Wake Forest  `:wakeforest:` \n\n \n:acc: *Coastal*\n -----------------------------\n\n :duke:  Duke  `:duke:` \n\n :gt:  Georgia Tech  `:gt:` or  `:georgiatech:`\n\n :miami:  Miami  `:miami:` \n\n :pitt:  Pittsburgh  `:pitt:` \n\n :virginia:  Virginia  `:virginia:` \n\n :virginiatech:  Virginia Tech  `:virginiatech:` \n\n :unc:  UNC  `:unc:`
+
+
+====================================================
+====================================================
+====================================================
+
+
+# Pre line joins for easier editing:
+====================================================
+
+~\n\n*ACC - Atlantic Coast Conference* :acc:\n_FBS // Power Five_\n\n\n
+:acc: *Atlantic*\n
+-----------------------------\n\n
+:bc:  Boston College  `:bc:` or  `:bostoncollege:`\n\n
+:clemson:  Clemson  `:clemson:` \n\n
+:fsu:  Florida State  `:fsu:` \n\n
+:louisville:  Louisville  `:louisville:` \n\n
+:ncstate:  NC State  `:ncstate:` \n\n
+:syracuse:  Syracuse  `:syracuse:` \n\n
+:wakeforest:  Wake Forest  `:wakeforest:` \n\n
+
+\n:acc: *Coastal*\n
+-----------------------------\n\n
+:duke:  Duke  `:duke:` \n\n
+:gt:  Georgia Tech  `:gt:` or  `:georgiatech:`\n\n
+:miami:  Miami  `:miami:` \n\n
+:pitt:  Pittsburgh  `:pitt:` \n\n
+:virginia:  Virginia  `:virginia:` \n\n
+:virginiatech:  Virginia Tech  `:virginiatech:` \n\n
+:unc:  UNC  `:unc:`
