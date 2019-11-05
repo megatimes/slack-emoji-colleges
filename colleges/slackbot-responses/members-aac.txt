@@ -1,0 +1,31 @@
+#prompts
+!members aac, !members-aac, !members american athletic, !members american
+
+
+~\n\n:conference-aac: *AAC - American Athletic Conference* \n_FBS // Group of Five_\n\n\n *American West*\n\n :houston:  Houston  `:houston:`\n\n :memphis:  Memphis  `:memphis:`\n\n :navy:  Navy  `:navy:`\n\n :smu:  SMU (Southern Methodist) `:smu:`\n\n :tulane:  Tulane  `:tulane:`\n\n :tulsa:  Tulsa  `:tulsa:`\n\n \n*American East*\n\n :cincinnati:  Cincinnati  `:cincinnati:`\n\n :eastcarolina:  East Carolina  `:eastcarolina:`\n\n :southflorida:  South Florida  `:southflorida:`\n\n :temple:  Temple  `:temple:`\n\n :ucf:  UCF (Central Florida) `:ucf:`\n\n :uconn:  UConn (independent in 2020) `:uconn:`
+
+
+
+====================================================
+====================================================
+====================================================
+
+# Pre line joins for easier editing:
+====================================================
+
+~\n\n:conference-aac: *AAC - American Athletic Conference* \n_FBS // Group of Five_\n\n\n
+*American West*\n\n
+:houston:  Houston  `:houston:`\n\n
+:memphis:  Memphis  `:memphis:`\n\n
+:navy:  Navy  `:navy:`\n\n
+:smu:  SMU (Southern Methodist) `:smu:`\n\n
+:tulane:  Tulane  `:tulane:`\n\n
+:tulsa:  Tulsa  `:tulsa:`\n\n
+
+\n*American East*\n\n
+:cincinnati:  Cincinnati  `:cincinnati:`\n\n
+:eastcarolina:  East Carolina  `:eastcarolina:`\n\n
+:southflorida:  South Florida  `:southflorida:`\n\n
+:temple:  Temple  `:temple:`\n\n
+:ucf:  UCF (Central Florida) `:ucf:`\n\n
+:uconn:  UConn (independent in 2020) `:uconn:`

@@ -1,6 +1,19 @@
-:hampton: :northalabama: :northdakota:
-
-
-
 #prompts
-!members-fcs-independents, !members-fcs-indy, !members fcs indy, !members-fcs-independents
+!members fcs independents, !members fcs indy, !members-fcs-independents, !members-fcs-indy
+
+
+~\n\n*FCS Independents*  -  No Conference Affiliation\n\n _As of 2019, there is only 1 FCS Independent_\n\n :northdakota:  North Dakota  `:northdakota:`
+
+
+
+
+
+
+
+
+~\n\n*FCS Independents*  -  No Conference Affiliation\n\n
+_As of 2019, there is only 1 FCS Independent_\n\n
+:northdakota:  North Dakota  `:northdakota:`
+
+
+

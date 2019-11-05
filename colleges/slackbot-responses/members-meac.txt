@@ -1,6 +1,28 @@
-:bethunecookman: :delawarestate: :floridaam: :howard: :morganstate: :norfolkstate: :northcarolinaat: :northcarolinacentral: :savannahstate: :southcarolinastate:
-
-
-
 #prompts
-!members-meac, !members meac, !members-mideasternathletic, !members mideasternathletic
+!members-meac, !members meac, !members-mideasternathletic, !members mideasternathletic, !members mid eastern athletic
+
+
+~\n\n*MEAC - Mid-Eastern Athletic Conference* (_FCS_)\n\n\n *North Division*\n\n :delawarestate:  Delaware State  `:delawarestate:`\n\n :howard:  Howard  `:howard:`\n\n :morganstate:  Morgan State  `:morganstate:`\n\n :norfolkstate:  Norfolk State  `:norfolkstate:`\n\n \n*South Division*\n\n :bethunecookman:  Bethune Cookman  `:bethunecookman:`\n\n :floridaam:  Florida A&M  `:floridaam:`\n\n :northcarolinaat:  North Carolina A&T  `:northcarolinaat:`\n\n :northcarolinacentral:  North Carolina Central  `:northcarolinacentral:`\n\n :southcarolinastate:  South Carolina State  `:southcarolinastate:`
+
+
+====================================================
+====================================================
+====================================================
+
+# Pre line joins for easier editing:
+====================================================
+
+~\n\n*MEAC - Mid-Eastern Athletic Conference* (_FCS_)\n\n\n
+*North Division*\n\n
+:delawarestate:  Delaware State  `:delawarestate:`\n\n
+:howard:  Howard  `:howard:`\n\n
+:morganstate:  Morgan State  `:morganstate:`\n\n
+:norfolkstate:  Norfolk State  `:norfolkstate:`\n\n
+
+\n*South Division*\n\n
+:bethunecookman:  Bethune Cookman  `:bethunecookman:`\n\n
+:floridaam:  Florida A&M  `:floridaam:`\n\n
+:northcarolinaat:  North Carolina A&T  `:northcarolinaat:`\n\n
+:northcarolinacentral:  North Carolina Central  `:northcarolinacentral:`\n\n
+:southcarolinastate:  South Carolina State  `:southcarolinastate:`
+

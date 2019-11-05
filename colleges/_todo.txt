@@ -4,7 +4,7 @@
 
 3. done - add FCS conference lists
 
-4. add conference logos (added SEC)
+4. add conference logos (added SEC, mountian west, aac/american, )
 
 5. done - add conferece slackbot commands to list conference commands
 
@@ -14,5 +14,5 @@
 
 8. Reorganize conference lists to include divisions and commands for each school
    - completed FBS P5 - ACC, big 12, big10, pac-12, sec, independents
-   - completed FBS G5 - C-USA, sun belt, MAC, 
-   - completed FCS - big sky, ivy league, big south, caa, 
+   - completed FBS G5 - C-USA, sun belt, MAC, AAC/american, mountain west
+   - completed FCS - big sky, ivy league, big south, caa, independents, meac, 

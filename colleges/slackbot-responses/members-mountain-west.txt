@@ -1,6 +1,34 @@
-:airforce:  :boisestate:  :coloradostate:  :fresnostate:  :hawaii:  :nevada:  :newmexico:  :sandiegostate:  :sanjosestate: :unlv:  :utahstate:  :wyoming:
-
-
-
 #prompts
-members mountain west, members mtn west
+!members mountain west, !members mountain-west, !members mw, !members mountain
+
+
+~\n\n:conference-mountain-west: *Mountain West Conference* \n_FBS // Group of Five_\n\n\n *Mountain Division*\n\n :airforce:  Air Force  `:airforce:`\n\n :boisestate:  Boise State  `:boisestate:`\n\n :coloradostate:  Colorado State  `:coloradostate:`\n\n :newmexico:  New Mexico  `:newmexico:`\n\n :utahstate:  Utah State  `:utahstate:`\n\n :wyoming:  Wyoming  `:wyoming:`\n\n \n*West Division*\n\n :fresnostate:  Fresno State  `:fresnostate:`\n\n :hawaii:  Hawaiʻi  `:hawaii:`\n\n :nevada:  Nevada  `:nevada:`\n\n :sandiegostate:  San Diego State  `:sandiegostate:`\n\n :sanjosestate:  San Jose State  `:sanjosestate:`\n\n :unlv:  UNLV (Las Vegas) `:unlv:`
+
+
+
+
+
+
+====================================================
+====================================================
+====================================================
+
+# Pre line joins for easier editing:
+====================================================
+
+~\n\n:conference-mountain-west: *Mountain West Conference* \n_FBS // Group of Five_\n\n\n
+*Mountain Division*\n\n
+:airforce:  Air Force  `:airforce:`\n\n
+:boisestate:  Boise State  `:boisestate:`\n\n
+:coloradostate:  Colorado State  `:coloradostate:`\n\n
+:newmexico:  New Mexico  `:newmexico:`\n\n
+:utahstate:  Utah State  `:utahstate:`\n\n
+:wyoming:  Wyoming  `:wyoming:`\n\n
+
+\n*West Division*\n\n
+:fresnostate:  Fresno State  `:fresnostate:`\n\n
+:hawaii:  Hawaiʻi  `:hawaii:`\n\n
+:nevada:  Nevada  `:nevada:`\n\n
+:sandiegostate:  San Diego State  `:sandiegostate:`\n\n
+:sanjosestate:  San Jose State  `:sanjosestate:`\n\n
+:unlv:  UNLV (Las Vegas) `:unlv:`
