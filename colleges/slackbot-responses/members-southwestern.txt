@@ -1,6 +1,33 @@
-:alabamaam: :alabamastate: :alcornstate: :arkansaspinebluff: :grambling: :jacksonstate: :mississippivalleystate: :prairieview: :southernuniversity: :texassouthern:
-
-
-
 #prompts
-!members-southwestern-athletic-conference, !members-swac, !members southwestern athletic conference, !members swac 
+!members southwestern, !members swac, !members-southwestern-athletic-conference, !members-swac, !members southwestern athletic conference
+
+
+~\n\n:conference-swac: *SWAC - Southwestern Athletic Conference* (_FCS_)\n\n\n *East Division*\n\n :alabamaam:  Alabama A&M  `:alabamaam:`\n\n :alabamastate:  Alabama State  `:alabamastate:`\n\n :alcornstate:  Alcorn State  `:alcornstate:`\n\n :jacksonstate:  Jackson State  `:jacksonstate:`\n\n :mississippivalleystate:  Mississippi Valley State  `:mississippivalleystate:`\n\n \n*West Division*\n\n :arkansaspinebluff:  Arkansas at Pine Bluff  `:arkansaspinebluff:`\n\n :grambling:  Grambling  `:grambling:`\n\n :prairieview:  Prairie View A&M `:prairieview:`\n\n :southernuniversity:  Southern University  `:southernuniversity:`\n\n :texassouthern:  Texas Southern  `:texassouthern:`
+
+
+
+
+
+
+
+====================================================
+====================================================
+====================================================
+
+# Pre line joins for easier editing:
+====================================================
+
+~\n\n:conference-swac: *SWAC - Southwestern Athletic Conference* (_FCS_)\n\n\n
+*East Division*\n\n
+:alabamaam:  Alabama A&M  `:alabamaam:`\n\n
+:alabamastate:  Alabama State  `:alabamastate:`\n\n
+:alcornstate:  Alcorn State  `:alcornstate:`\n\n
+:jacksonstate:  Jackson State  `:jacksonstate:`\n\n
+:mississippivalleystate:  Mississippi Valley State  `:mississippivalleystate:`\n\n
+
+\n*West Division*\n\n
+:arkansaspinebluff:  Arkansas at Pine Bluff  `:arkansaspinebluff:`\n\n
+:grambling:  Grambling  `:grambling:`\n\n
+:prairieview:  Prairie View A&M `:prairieview:`\n\n
+:southernuniversity:  Southern University  `:southernuniversity:`\n\n
+:texassouthern:  Texas Southern  `:texassouthern:`

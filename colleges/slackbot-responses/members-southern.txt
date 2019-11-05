@@ -1,6 +1,31 @@
-:chattanooga: :citadel: :easttennesseestate: :furman: :mercer: :samford: :vmi: :westerncarolina: :wofford:
-
-
-
 #prompts
-!members-southern-conference, !members-southern, !members southern conference, !members southern
+!members southern, !members southern conference, !members-southern-conference, !members-southern
+
+
+~\n\n:conference-southern: *Southern Conference* (_FCS_)\n\n\n *No Divisions*\n\n :chattanooga:  Chattanooga  `:chattanooga:`\n\n :citadel:  Citadel  `:citadel:`\n\n :easttennesseestate:  East Tennessee State  `:easttennesseestate:`\n\n :furman:  Furman  `:furman:`\n\n :mercer:  Mercer  `:mercer:`\n\n :samford:  Samford  `:samford:`\n\n :vmi:  VMI (Virginia Military)  `:vmi:`\n\n :westerncarolina:  Western Carolina  `:westerncarolina:`\n\n :wofford:  Wofford  `:wofford:`
+
+
+
+
+
+
+
+
+====================================================
+====================================================
+====================================================
+
+# Pre line joins for easier editing:
+====================================================
+
+~\n\n:conference-southern: *Southern Conference* (_FCS_)\n\n\n
+*No Divisions*\n\n
+:chattanooga:  Chattanooga  `:chattanooga:`\n\n
+:citadel:  Citadel  `:citadel:`\n\n
+:easttennesseestate:  East Tennessee State  `:easttennesseestate:`\n\n
+:furman:  Furman  `:furman:`\n\n
+:mercer:  Mercer  `:mercer:`\n\n
+:samford:  Samford  `:samford:`\n\n
+:vmi:  VMI (Virginia Military)  `:vmi:`\n\n
+:westerncarolina:  Western Carolina  `:westerncarolina:`\n\n
+:wofford:  Wofford  `:wofford:`

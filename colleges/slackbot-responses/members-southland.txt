@@ -1,6 +1,36 @@
-:abilenechristian: :centralarkansas: :houstonbaptist: :incarnateword: :lamar: :mcneesestate: :nichollsstate: :northwesternstate: :samhouston: :southeasternlouisiana: :stephenfaustin:
-
-
-
 #prompts
-!members-southland-conference, !members-slc, !members southland conference, !members slc, !members-southland-conference, !members southland
+!members southland, !members southland conference, !members-southland-conference, !members-slc, !members slc, !members-southland-conference
+
+
+~\n\n:conference-southland: *SLC  -  Southland Conference* (_FCS_)\n\n\n *No Divisions*\n\n :abilenechristian:  Abilene Christian  `:abilenechristian:`\n\n :centralarkansas:  Central Arkansas  `:centralarkansas:`\n\n :houstonbaptist:  Houston Baptist  `:houstonbaptist:`\n\n :incarnateword:  Incarnate Word  `:incarnateword:`\n\n :lamar:  Lamar  `:lamar:`\n\n :mcneesestate:  McNeese State  `:mcneesestate:`\n\n :nichollsstate:  Nicholls State  `:nichollsstate:`\n\n :northwesternstate:  Northwestern State  `:northwesternstate:`\n\n :samhouston:  Sam Houston State `:samhouston:`\n\n :southeasternlouisiana:  Southeastern Louisiana  `:southeasternlouisiana:`\n\n :stephenfaustin:  Stephen Faustin  `:stephenfaustin:`
+
+
+
+
+
+
+
+
+
+
+
+====================================================
+====================================================
+====================================================
+
+# Pre line joins for easier editing:
+====================================================
+
+~\n\n:conference-southland: *SLC  -  Southland Conference* (_FCS_)\n\n\n
+*No Divisions*\n\n
+:abilenechristian:  Abilene Christian  `:abilenechristian:`\n\n
+:centralarkansas:  Central Arkansas  `:centralarkansas:`\n\n
+:houstonbaptist:  Houston Baptist  `:houstonbaptist:`\n\n
+:incarnateword:  Incarnate Word  `:incarnateword:`\n\n
+:lamar:  Lamar  `:lamar:`\n\n
+:mcneesestate:  McNeese State  `:mcneesestate:`\n\n
+:nichollsstate:  Nicholls State  `:nichollsstate:`\n\n
+:northwesternstate:  Northwestern State  `:northwesternstate:`\n\n
+:samhouston:  Sam Houston State `:samhouston:`\n\n
+:southeasternlouisiana:  Southeastern Louisiana  `:southeasternlouisiana:`\n\n
+:stephenfaustin:  Stephen Faustin  `:stephenfaustin:`
