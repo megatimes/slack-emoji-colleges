@@ -1,4 +1,41 @@
 #prompts
 !members sec, !members-sec
 
-~\n\n*:sec:  SEC - Southeastern Conference* \n_FBS // Power Five_\n\n\n*West Division*\n\n:alabama: Alabama `:alabama:` \n\n:arkansas: Arkansas `:arkansas:` \n\n:auburn: Auburn `:auburn:` \n\n:lsu: LSU `:lsu:` \n\n:mississippistate: Mississippi State `:mississippistate:` \n\n:olemiss: Ole Miss `:olemiss:`\n\n:texasam: Texas A&M `:texasam:`\n\n\n*East Division*\n\n:florida: Florida `:florida:` \n\n:georgia: Georgia `:georgia:` \n\n:kentucky: Kentucky `:kentucky:` \n\n:missouri: Missouri `:missouri:` \n\n:southcarolina: South Carolina `:southcarolina:` \n\n:tennessee: Tennessee `:tennessee:` \n\n:vanderbilt: Vanderbilt `:vanderbilt:`
+~\n\n*:sec:  SEC - Southeastern Conference* \n_FBS // Power Five_\n\n\n*West Division* :sec: \n\n:alabama: Alabama `:alabama:` \n\n:arkansas: Arkansas `:arkansas:` \n\n:auburn: Auburn `:auburn:` \n\n:lsu: LSU `:lsu:` \n\n:mississippistate: Mississippi State `:mississippistate:` \n\n:olemiss: Ole Miss `:olemiss:`\n\n:texasam: Texas A&M `:texasam:`\n\n\n*East Division* :sec:\n\n:florida: Florida `:florida:` \n\n:georgia: Georgia `:georgia:` \n\n:kentucky: Kentucky `:kentucky:` \n\n:missouri: Missouri `:missouri:` \n\n:southcarolina: South Carolina `:southcarolina:` \n\n:tennessee: Tennessee `:tennessee:` \n\n:vanderbilt: Vanderbilt `:vanderbilt:`
+
+
+
+~\n\n*:sec:  SEC - Southeastern Conference* \n_FBS // Power Five_\n\n\n \n:sec:  *West*\n -----------------------------\n\n :alabama: Alabama `:alabama:` \n\n :arkansas: Arkansas `:arkansas:` \n\n :auburn: Auburn `:auburn:` \n\n :lsu: LSU `:lsu:` \n\n :mississippistate: Mississippi State `:mississippistate:` \n\n :olemiss: Ole Miss `:olemiss:`\n\n :texasam: Texas A&M `:texasam:`\n\n \n:sec:  *East*\n -----------------------------\n\n :florida: Florida `:florida:` \n\n :georgia: Georgia `:georgia:` \n\n :kentucky: Kentucky `:kentucky:` \n\n :missouri: Missouri `:missouri:` \n\n :southcarolina: South Carolina `:southcarolina:` \n\n :tennessee: Tennessee `:tennessee:` \n\n :vanderbilt: Vanderbilt `:vanderbilt:`
+
+
+
+
+
+
+====================================================
+====================================================
+====================================================
+
+# Pre line joins for easier editing:
+====================================================
+
+~\n\n*:sec:  SEC - Southeastern Conference* \n_FBS // Power Five_\n\n\n
+:sec:  *West*\n
+-----------------------------\n\n
+:alabama: Alabama `:alabama:` \n\n
+:arkansas: Arkansas `:arkansas:` \n\n
+:auburn: Auburn `:auburn:` \n\n
+:lsu: LSU `:lsu:` \n\n
+:mississippistate: Mississippi State `:mississippistate:` \n\n
+:olemiss: Ole Miss `:olemiss:`\n\n
+:texasam: Texas A&M `:texasam:`\n\n
+
+\n:sec:  *East*\n
+-----------------------------\n\n
+:florida: Florida `:florida:` \n\n
+:georgia: Georgia `:georgia:` \n\n
+:kentucky: Kentucky `:kentucky:` \n\n
+:missouri: Missouri `:missouri:` \n\n
+:southcarolina: South Carolina `:southcarolina:` \n\n
+:tennessee: Tennessee `:tennessee:` \n\n
+:vanderbilt: Vanderbilt `:vanderbilt:`
