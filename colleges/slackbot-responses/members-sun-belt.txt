@@ -1,6 +1,31 @@
-:appalachianstate: :arkansasstate: :coastalcarolina: :georgiasouthern: :georgiastate: :idaho: :louisiana: :louisianamonroe: :newmexicostate: :southalabama: :texasstate: :troy:
-
-
-
 #prompts
-members sun belt, members sun, members fun, members fun belt
+!members sun belt, !members-sun-belt, !members fun belt, !members-fun-belt
+
+
+~\n\n*Sun Belt Conference* \n_FBS // Group of Five_\n\n\n *East Division*\n\n :appalachianstate:  Appalachian State  `:appstate:`\n\n :coastalcarolina:  Coastal Carolina  `:coastalcarolina:`\n\n :georgiasouthern:  Georgia Southern  `:georgiasouthern:`\n\n :georgiastate:  Georgia State  `:georgiastate:`\n\n :troy:  Troy  `:troy:`\n\n \n*West Division*\n\n :arkansasstate:  Arkansas State  `:arkansasstate:`\n\n :louisiana:  Louisiana @ Lafayette   `:louisiana:`\n\n :louisianamonroe:  louisiana-Monroe  `:louisianamonroe:`\n\n :southalabama:  South Alabama  `:southalabama:`\n\n :texasstate:  Texas State  `:texasstate:`
+
+
+
+
+
+====================================================
+====================================================
+====================================================
+
+# Pre line joins for easier editing:
+====================================================
+
+~\n\n*Sun Belt Conference* \n_FBS // Group of Five_\n\n\n
+*East Division*\n\n
+:appalachianstate:  Appalachian State  `:appstate:`\n\n
+:coastalcarolina:  Coastal Carolina  `:coastalcarolina:`\n\n
+:georgiasouthern:  Georgia Southern  `:georgiasouthern:`\n\n
+:georgiastate:  Georgia State  `:georgiastate:`\n\n
+:troy:  Troy  `:troy:`\n\n
+
+\n*West Division*\n\n
+:arkansasstate:  Arkansas State  `:arkansasstate:`\n\n
+:louisiana:  Louisiana @ Lafayette   `:louisiana:`\n\n
+:louisianamonroe:  louisiana-Monroe  `:louisianamonroe:`\n\n
+:southalabama:  South Alabama  `:southalabama:`\n\n
+:texasstate:  Texas State  `:texasstate:`
