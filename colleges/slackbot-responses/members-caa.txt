@@ -2,7 +2,7 @@
 !members caa, !members colonial, !members-caa, !members colonial athletic, !members colonial athletic association
 
 
-
+~\n\n*CAA - Colonial Athletic Association* (_FCS_)\n\n\n *No Divisions*\n\n :albany:  Albany  `:albany:`\n\n :delaware:  Delaware  `:delaware:`\n\n :elon:  Elon  `:elon:`\n\n :jamesmadison:  James Madison  `:jamesmadison:`\n\n :maine:  Maine  `:maine:`\n\n :newhampshire:  New Hampshire  `:newhampshire:`\n\n :rhodeisland:  Rhode Island  `:rhodeisland:`\n\n :richmond:  Richmond  `:richmond:`\n\n :stonybrook:  Stony Brook  `:stonybrook:`\n\n :towson:  Towson  `:towson:`\n\n :villanova:  Villanova  `:villanova:`\n\n :williamandmary:  William & Mary  `:williamandmary:`
 
 
 
